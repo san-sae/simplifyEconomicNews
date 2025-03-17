@@ -36,7 +36,7 @@
 
   ![image](https://github.com/user-attachments/assets/a75f831d-c694-44ea-b4ba-6f341881d019)
 
-1. 아래의 상관행렬은 변환 텍스트와 관련 변수들 간의 상관관계를 나타낸다. 'Helpfulness of term explanation' 항목과 'diff' (변환 텍스트 이해도- 원문 이해도) 항목 간의 상관 계수가 0.412310으로 양의 상관관계를 보이므로 용어 설명의 유용성이 높아질수록 변환 텍스트의 이해도가 높아지는 패턴을 관찰할 수 있음을 시사한다.
+2. 아래의 상관행렬은 변환 텍스트와 관련 변수들 간의 상관관계를 나타낸다. 'Helpfulness of term explanation' 항목과 'diff' (변환 텍스트 이해도- 원문 이해도) 항목 간의 상관 계수가 0.412310으로 양의 상관관계를 보이므로 용어 설명의 유용성이 높아질수록 변환 텍스트의 이해도가 높아지는 패턴을 관찰할 수 있음을 시사한다.
 
   ![image](https://github.com/user-attachments/assets/1d75feb5-2a4a-4a43-95bc-8e25ae52ec0a)
  
