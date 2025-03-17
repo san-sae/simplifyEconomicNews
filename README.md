@@ -15,19 +15,19 @@
 - Python
 - python : 3.9.13
 - pip : 22.3.1
-── tokenizers@0.14.1
-├── transformers@4.37.2
-├── torch@2.1.0
-├── tqdm@4.66.1
-├── datasets@2.14.5
-├── numpy@1.26.0
-├── pandas@2.1.3
-├── json@2.0.9
-├── os-sys@2.1.4
-├── torchdata@0.6.1
-├── torchtext@0.16.0
-├── torchvision@0.16.0
-├── regex@2023.10.3
-└── re (내장 모듈)
-
+── tokenizers@0.14.1  
+├── transformers@4.37.2  
+├── torch@2.1.0  
+├── tqdm@4.66.1  
+├── datasets@2.14.5  
+├── numpy@1.26.0  
+├── pandas@2.1.3  
+├── json@2.0.9  
+├── os-sys@2.1.4  
+├── torchdata@0.6.1  
+├── torchtext@0.16.0  
+├── torchvision@0.16.0  
+├── regex@2023.10.3  
+└── re (내장 모듈)  
+  
 ### 모델 
